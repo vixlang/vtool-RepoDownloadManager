@@ -1,0 +1,6 @@
+[project]
+name = "very"
+version = "0.3.0"
+description = "Vix 项目管理与构建工具"
+readme = "README.md"
+deps = []
